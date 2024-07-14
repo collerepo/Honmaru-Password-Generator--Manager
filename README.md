@@ -1,4 +1,4 @@
-Password Generator and Manager
+Honmaru Password Generator and Manager
 ============================================================
 
 This script generates strong, unique passwords and stores them securely. It also provides options to retrieve and delete passwords.
