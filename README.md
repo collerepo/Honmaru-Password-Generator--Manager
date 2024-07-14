@@ -3,7 +3,7 @@ Honmaru Password Generator & Manager
 
 This script generates strong, unique passwords and stores them securely. It also provides options to retrieve and delete passwords.
 
-//Note: Make sure to use the 'StrongPasswordGeneratorV3.py' file as it is the latest and most complete version of the final product. DO NOT use the 'test' version as it is outdated and was meant as a trial for the final version.
+//Note: Make sure to use the 'HPGMv3.py' file as it is the latest and most complete version of the final product. DO NOT use the 'test' version as it is outdated and was meant as a trial for the final version.
 
 *******Usage********
 -----
