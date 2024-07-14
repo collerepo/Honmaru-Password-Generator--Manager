@@ -1,4 +1,22 @@
-# Stardard-Password-Generator
-This is the first project that is being posted in my collection of repositories. This project is meant to show how limits implemented into the parameters of the variables used for the generating of the passwords will influence the pipeline in the creation of the password. 
+Password Generator and Manager
+============================================================
 
-Also, this project is intended for beginner-level Python dev'ing. I will be dedicating more time to adding more projects that update each posted repo's version and also more advanced projects. I hope you all enjoy my journey (and the comic relief that it comes with)!
+This script generates strong, unique passwords and stores them securely. It also provides options to retrieve and delete passwords.
+
+*******Usage********
+-----
+
+1. Run the script and follow the prompts to generate a password.
+2. The password will be stored securely in the `passwords.txt` file.
+3. To retrieve a password, run the script and select the "Retrieve password" option.
+4. To delete a password, run the script and select the "Delete password" option.
+
+******Security******
+--------
+
+The script uses the `secrets` module to generate cryptographically secure random numbers. Passwords are stored using the `hashlib` library with a salt value to prevent rainbow table attacks.
+
+******License*******
+-------
+
+This script is licensed under the MIT License.
